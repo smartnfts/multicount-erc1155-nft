@@ -1,0 +1,36 @@
+{
+  "name": "multicount-erc1155-nft",
+  "version": "1.0.0",
+  "description": "Multicount ERC-1155 NFT Collection",
+  "main": "index.js",
+  "scripts": {
+    "clean": "rm -rf cache artifacts",
+    "compile": "npx hardhat compile",
+    "deployTestnet": "npx hardhat run scripts/deploy.js --network energiTestnet",
+    "deployMainnet": "npx hardhat run scripts/deploy.js --network energiMainnet",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nft",
+    "multicount",
+    "blockchain",
+    "energi",
+    "openzeppelin",
+    "upgradeable",
+    "smart-contract",
+    "web3",
+    "SmartNFTs"
+  ],
+  "author": "SMART NFTs LLC",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@openzeppelin/contracts-upgradeable": "^5.1.0",
+    "@openzeppelin/hardhat-upgrades": "^3.7.0",
+    "hardhat": "^2.22.17"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "dotenv": "^16.4.7"
+  }
+}

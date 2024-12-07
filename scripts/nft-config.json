@@ -1,0 +1,160 @@
+{
+  "name": "Egypt Gold",
+  "baseURI": "ipfs://bafybeihbaby5kielosv3pignycb5tk4u6cgduhxpu45fdzmu7nesyoo5ce/",
+  "mintPrice": "0.1",
+  "contractAddress": "0x...",
+  "tokenSupplies": {
+    "1": 10,
+    "2": 20,
+    "3": 20,
+    "4": 20,
+    "5": 20,
+    "6": 20,
+    "7": 20,
+    "8": 20,
+    "9": 20,
+    "10": 20,
+    "11": 20,
+    "12": 20,
+    "13": 20,
+    "14": 20,
+    "15": 20,
+    "16": 20,
+    "17": 20,
+    "18": 20,
+    "19": 20,
+    "20": 20,
+    "21": 20,
+    "22": 20,
+    "23": 20,
+    "24": 20,
+    "25": 20
+  },
+  "mints": [
+    {
+      "to": "0xd66Ee1691Ffe9F7d476Afc5d90C38e41cB44DC3E",
+      "tokenId": 1,
+      "amount": 10
+    },
+    {
+      "to": "0xd66Ee1691Ffe9F7d476Afc5d90C38e41cB44DC3E", 
+      "tokenId": 2,
+      "amount": 20
+    },
+    {
+      "to": "0xd66Ee1691Ffe9F7d476Afc5d90C38e41cB44DC3E", 
+      "tokenId": 3,
+      "amount": 20
+    },
+    {
+      "to": "0xd66Ee1691Ffe9F7d476Afc5d90C38e41cB44DC3E", 
+      "tokenId": 4,
+      "amount": 20
+    },
+    {
+      "to": "0xd66Ee1691Ffe9F7d476Afc5d90C38e41cB44DC3E", 
+      "tokenId": 5,
+      "amount": 20
+    },
+    {
+      "to": "0xd66Ee1691Ffe9F7d476Afc5d90C38e41cB44DC3E", 
+      "tokenId": 6,
+      "amount": 20
+    },
+    {
+      "to": "0xd66Ee1691Ffe9F7d476Afc5d90C38e41cB44DC3E", 
+      "tokenId": 7,
+      "amount": 20
+    },
+    {
+      "to": "0xd66Ee1691Ffe9F7d476Afc5d90C38e41cB44DC3E", 
+      "tokenId": 8,
+      "amount": 20
+    },
+    {
+      "to": "0xd66Ee1691Ffe9F7d476Afc5d90C38e41cB44DC3E", 
+      "tokenId": 9,
+      "amount": 20
+    },
+    {
+      "to": "0xd66Ee1691Ffe9F7d476Afc5d90C38e41cB44DC3E", 
+      "tokenId": 10,
+      "amount": 20
+    },
+    {
+      "to": "0xd66Ee1691Ffe9F7d476Afc5d90C38e41cB44DC3E", 
+      "tokenId": 11,
+      "amount": 20
+    },
+    {
+      "to": "0xd66Ee1691Ffe9F7d476Afc5d90C38e41cB44DC3E", 
+      "tokenId": 12,
+      "amount": 20
+    },
+    {
+      "to": "0xd66Ee1691Ffe9F7d476Afc5d90C38e41cB44DC3E", 
+      "tokenId": 13,
+      "amount": 20
+    },
+    {
+      "to": "0xd66Ee1691Ffe9F7d476Afc5d90C38e41cB44DC3E", 
+      "tokenId": 14,
+      "amount": 20
+    },
+    {
+      "to": "0xd66Ee1691Ffe9F7d476Afc5d90C38e41cB44DC3E", 
+      "tokenId": 15,
+      "amount": 20
+    },
+    {
+      "to": "0xd66Ee1691Ffe9F7d476Afc5d90C38e41cB44DC3E", 
+      "tokenId": 16,
+      "amount": 20
+    },
+    {
+      "to": "0xd66Ee1691Ffe9F7d476Afc5d90C38e41cB44DC3E", 
+      "tokenId": 17,
+      "amount": 20
+    },
+    {
+      "to": "0xd66Ee1691Ffe9F7d476Afc5d90C38e41cB44DC3E", 
+      "tokenId": 18,
+      "amount": 20
+    },
+    {
+      "to": "0xd66Ee1691Ffe9F7d476Afc5d90C38e41cB44DC3E", 
+      "tokenId": 19,
+      "amount": 20
+    },
+    {
+      "to": "0xd66Ee1691Ffe9F7d476Afc5d90C38e41cB44DC3E", 
+      "tokenId": 20,
+      "amount": 20
+    },
+    {
+      "to": "0xd66Ee1691Ffe9F7d476Afc5d90C38e41cB44DC3E", 
+      "tokenId": 21,
+      "amount": 20
+    },
+    {
+      "to": "0xd66Ee1691Ffe9F7d476Afc5d90C38e41cB44DC3E", 
+      "tokenId": 22,
+      "amount": 20
+    },
+    {
+      "to": "0xd66Ee1691Ffe9F7d476Afc5d90C38e41cB44DC3E", 
+      "tokenId": 23,
+      "amount": 20
+    },
+    {
+      "to": "0xd66Ee1691Ffe9F7d476Afc5d90C38e41cB44DC3E", 
+      "tokenId": 24,
+      "amount": 20
+    },
+    {
+      "to": "0xd66Ee1691Ffe9F7d476Afc5d90C38e41cB44DC3E", 
+      "tokenId": 25,
+      "amount": 20
+    }
+  ]
+}
